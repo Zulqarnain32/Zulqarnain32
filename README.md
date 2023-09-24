@@ -1,4 +1,4 @@
-![image alt text](https://github.com/Zulqarnain32/Zulqarnain32/blob/main/codingbanner.jpg?raw=true)
+![image alt text](https://github.com/Zulqarnain32/Zulqarnain32/blob/main/banner1.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Zulqarnain Chohan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
