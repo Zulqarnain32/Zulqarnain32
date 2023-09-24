@@ -1,4 +1,4 @@
-<img src="https://github.com/Zulqarnain32/Zulqarnain32/blob/main/banner1.jpg?raw=true" alt="image alt text" width="100%">
+<img src="https://github.com/Zulqarnain32/Zulqarnain32/blob/main/banner1.jpg?raw=true" alt="image alt text" width="100%" height = "300px">
 
 
 <h1 align="center">Hi 👋, I'm Zulqarnain Chohan</h1>
