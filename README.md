@@ -1,14 +1,5 @@
-### Hi there 👋
-
-<!--
-**Zulqarnain32/Zulqarnain32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Zulqarnain Chohan</h1>
 <h3 align="center">A passionate frontend developer from PAkistan</h3>
-
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulqarnain32&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain32" /> </p>
 
@@ -44,13 +35,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulqarnain32&show_icons=true&locale=en" alt="zulqarnain32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain32&" alt="zulqarnain32" /></p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
