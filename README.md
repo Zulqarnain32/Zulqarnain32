@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [http://zulqarnainbestportfolio.netlify.app](http://zulqarnainbestportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [http://zulqarnain-chohan-portfolio.netlify.app](http://zulqarnain-chohan-portfolio.netlify.app)
 
 - 💬 Ask me about **javascript, react and node js**
 
