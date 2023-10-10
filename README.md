@@ -1,6 +1,6 @@
 
 ![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw38svc5LdrZRwxefGVhcg3a&ust=1697025915344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDRq-C364EDFQAAAAAdAAAAABAE)
+
 
 
 <h1 align="center">Hi 👋, I'm Zulqarnain Chohan</h1>
