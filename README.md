@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/zulqarnainchoh5" target="blank"><img src="https://img.shields.io/twitter/follow/zulqarnainchoh5?logo=twitter&style=for-the-badge" alt="zulqarnainchoh5" /></a> </p>
 
-- 🔭 I’m currently working on **Recipe App**
+- 🔭 I’m currently working on **Job Portal App**
 
 - 🌱 I’m currently learning **MERN STACK**
 
